@@ -46,5 +46,5 @@ Discipline 是一个帮助用户保持专注的软件，源于我在备战考研
 如果这个软件对你有帮助，欢迎打赏支持 ☕
 
 <p align="center">
-    <img src="assets/qrcode.png" alt="打赏二维码" width="200" style="display: block; margin: auto;">
+    <img src="assets/pay.jpg" alt="打赏二维码" width="200" style="display: block; margin: auto;">
 </p>
