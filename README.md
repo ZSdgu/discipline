@@ -15,8 +15,10 @@ Discipline 是一个帮助用户保持专注的软件，源于我在备战考研
 2. 后台弹出界面
 3. 显示悬浮窗
 4. 后台运行权限
+
 <div align="center">
-  <img src="assets/authority.jpg" alt="打赏二维码" width="150">
+  <img src="assets/authority.jpg" alt="权限设置界面" width="300">
+  <p><i>权限设置界面</i></p>
 </div> 
 
 ## 使用方法
@@ -26,10 +28,13 @@ Discipline 是一个帮助用户保持专注的软件，源于我在备战考研
 4. 启动专注模式按钮
 
 <div align="center">
-  <img src="assets/main.jpg" alt="打赏二维码" width="150">
+  <img src="assets/main.jpg" alt="主界面" width="300">
+  <p><i>软件主界面</i></p>
 </div>
+
 <div align="center">
-  <img src="assets/limition.jpg" alt="打赏二维码" width="150">
+  <img src="assets/limition.jpg" alt="使用时间设置" width="300">
+  <p><i>使用时间设置界面</i></p>
 </div>
 
 ## 注意事项
@@ -45,6 +50,7 @@ Discipline 是一个帮助用户保持专注的软件，源于我在备战考研
 ---
 如果这个软件对你有帮助，欢迎打赏支持 ☕
 
-<p align="center">
-    <img src="assets/pay.jpg" alt="打赏二维码" width="200" style="display: block; margin: auto;">
-</p>
+<div align="center">
+  <img src="assets/pay.jpg" alt="打赏二维码" width="250">
+  <p><i>扫码打赏</i></p>
+</div>
